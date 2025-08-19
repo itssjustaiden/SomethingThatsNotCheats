@@ -1,100 +1,391 @@
-Cats have five toes on their front paws, but only four on their back paws.
-A group of cats is called a clowder.
-Cats can rotate their ears 180 degrees.
-The average cat sleeps for 12–16 hours a day.
-A cat's nose has a unique pattern, much like a human fingerprint.
-Cats can make over 100 different sounds.
-The oldest cat ever recorded lived to 38 years.
-Cats have a specialized collarbone that allows them to always land on their feet.
-A cat's purring can have a calming effect on humans.
-Cats have whiskers on the backs of their front legs as well as on their faces.
-The average cat runs at 30 mph (48 km/h).
-Cats can jump up to six times their body length in one leap.
-A cat's heart beats twice as fast as a human's.
-Cats have 32 muscles in each ear.
-A cat's tongue is covered in tiny, backward-facing barbs called papillae.
-Cats can see in near darkness, thanks to a layer of tissue called the tapetum lucidum.
-The world's largest cat measured 48.5 inches long.
-Cats have a third eyelid called a haw.
-A cat's sense of smell is 14 times stronger than a human's.
-Cats can rotate their paws 180 degrees.
-The average cat weighs between 9 and 11 pounds.
-Cats can hear ultrasonic sounds up to 64 kHz.
-The first cloned pet was a cat named Cc.
-Cats have been domesticated for over 4,000 years.
-The world's smallest cat breed is the Singapura.
-Cats can run faster than humans in short bursts.
-A cat's whiskers are highly sensitive and can detect changes in air currents.
-Cats have a specialized collarbone that allows them to always land on their feet.
-The average cat sleeps for 12–16 hours a day.
-Cats can rotate their ears 180 degrees.
-A group of cats is called a clowder.
-Cats have five toes on their front paws, but only four on their back paws.
-A cat's nose has a unique pattern, much like a human fingerprint.
-Cats can make over 100 different sounds.
-The oldest cat ever recorded lived to 38 years.
-Cats have a specialized collarbone that allows them to always land on their feet.
-A cat's purring can have a calming effect on humans.
-Cats have whiskers on the backs of their front legs as well as on their faces.
-The average cat runs at 30 mph (48 km/h).
-Cats can jump up to six times their body length in one leap.
-A cat's heart beats twice as fast as a human's.
-Cats have 32 muscles in each ear.
-A cat's tongue is covered in tiny, backward-facing barbs called papillae.
-Cats can see in near darkness, thanks to a layer of tissue called the tapetum lucidum.
-The world's largest cat measured 48.5 inches long.
-Cats have a third eyelid called a haw.
-A cat's sense of smell is 14 times stronger than a human's.
-Cats can rotate their paws 180 degrees.
-The average cat weighs between 9 and 11 pounds.
-Cats can hear ultrasonic sounds up to 64 kHz.
-The first cloned pet was a cat named Cc.
-Cats have been domesticated for over 4,000 years.
-The world's smallest cat breed is the Singapura.
-Cats can run faster than humans in short bursts.
-A cat's whiskers are highly sensitive and can detect changes in air currents.
-Cats have a specialized collarbone that allows them to always land on their feet.
-The average cat sleeps for 12–16 hours a day.
-Cats can rotate their ears 180 degrees.
-A group of cats is called a clowder.
-Cats have five toes on their front paws, but only four on their back paws.
-A cat's nose has a unique pattern, much like a human fingerprint.
-Cats can make over 100 different sounds.
-The oldest cat ever recorded lived to 38 years.
-Cats have a specialized collarbone that allows them to always land on their feet.
-A cat's purring can have a calming effect on humans.
-Cats have whiskers on the backs of their front legs as well as on their faces.
-The average cat runs at 30 mph (48 km/h).
-Cats can jump up to six times their body length in one leap.
-A cat's heart beats twice as fast as a human's.
-Cats have 32 muscles in each ear.
-A cat's tongue is covered in tiny, backward-facing barbs called papillae.
-Cats can see in near darkness, thanks to a layer of tissue called the tapetum lucidum.
-The world's largest cat measured 48.5 inches long.
-Cats have a third eyelid called a haw.
-A cat's sense of smell is 14 times stronger than a human's.
-Cats can rotate their paws 180 degrees.
-The average cat weighs between 9 and 11 pounds.
-Cats can hear ultrasonic sounds up to 64 kHz.
-The first cloned pet was a cat named Cc.
-Cats have been domesticated for over 4,000 years.
-The world's smallest cat breed is the Singapura.
-Cats can run faster than humans in short bursts.
-A cat's whiskers are highly sensitive and can detect changes in air currents.
-Cats have a specialized collarbone that allows them to always land on their feet.
-The average cat sleeps for 12–16 hours a day.
-Cats can rotate their ears 180 degrees.
-A group of cats is called a clowder.
-Cats have five toes on their front paws, but only four on their back paws.
-A cat's nose has a unique pattern, much like a human fingerprint.
-Cats can make over 100 different sounds.
-The oldest cat ever recorded lived to 38 years.
-Cats have a specialized collarbone that allows them to always land on their feet.
-A cat's purring can have a calming effect on humans.
-Cats have whiskers on the backs of their front legs as well as on their faces.
-The average cat runs at 30 mph (48 km/h).
-Cats can jump up to six times their body length in one leap.
-A cat's heart beats twice as fast as a human's.
-Cats have 32 muscles in each ear.
-A cat's tongue is covered in tiny, backward-facing barbs called papillae.
-Cats can see in near darkness, thanks to a layer of tissue called the tapetum lucidum.
+cats sleep for around 12–16 hours a day
+cats have retractable claws
+cats use their whiskers to measure spaces
+a group of cats is called a clowder
+a male cat is called a tom
+a female cat is called a queen
+kittens are born blind and deaf
+cats purr when they’re happy but also when in pain
+cats can rotate their ears 180 degrees
+cats have 32 muscles in each ear
+cats’ noses are as unique as human fingerprints
+cats can’t taste sweetness
+cats land on their feet because of the righting reflex
+cats have five toes on their front paws and four on their back paws
+polydactyl cats have extra toes
+maine coons are one of the largest domestic cat breeds
+singapura cats are one of the smallest domestic cat breeds
+the average cat lives 13–17 years
+the oldest recorded cat lived to 38 years
+cats communicate with humans through meows more than with other cats
+cats groom each other as a bonding activity
+cats have a third eyelid called a haw
+cats can jump up to six times their body length
+cats’ back legs are stronger than their front legs
+cats scratch to mark territory with scent glands
+cats also scratch to sharpen claws
+cats have scent glands in their cheeks
+cats often rub against people to mark them
+cats’ whiskers can detect air currents
+cats see better than humans in low light
+cats have a tapetum lucidum for night vision
+cats can’t see in total darkness
+cats’ pupils expand widely to take in more light
+cats have fewer taste buds than dogs
+cats are obligate carnivores
+cats need taurine, an amino acid, to survive
+without taurine, cats can go blind
+cats drink water by curling their tongue backward
+cats’ tongues have papillae that feel like sandpaper
+these papillae help cats groom and eat meat
+cats evolved from desert animals
+cats don’t need much water compared to dogs
+cats sweat through their paw pads
+cats pant when overheated or stressed
+cats can run up to 30 miles per hour
+cats can hear ultrasonic sounds that rodents make
+cats often chatter when watching birds
+cats dream during rem sleep
+cats knead with their paws as a leftover kitten behavior
+kittens knead their mother to stimulate milk
+cats’ brains are about 90% similar to human brains
+cats can remember things for up to 10 years
+cats can recognize their name
+cats may choose to ignore their owners on purpose
+cats’ heart rates are twice as fast as humans
+a cat’s normal body temperature is around 101.5°f
+cats’ whiskers are roughly as wide as their body
+cats sometimes bring dead prey as gifts
+cats can get hairballs from grooming
+cats usually bury their waste in litter
+wild cats also bury waste to avoid predators
+cats are lactose intolerant
+cats can still enjoy lactose-free cat milk
+cats can develop allergies like humans
+cats can have heterochromia, two different eye colors
+white cats with blue eyes are prone to deafness
+calico cats are almost always female
+orange cats are often male
+tortoiseshell cats are mostly female
+cats can get arthritis as they age
+cats can also get diabetes
+cats can be trained to walk on leashes
+cats respond well to positive reinforcement
+clicker training can work on cats
+cats groom themselves for about 30–50% of the day
+cats can get stressed if they can’t groom
+cats love high places because they feel safe
+cats often knock things over out of curiosity
+cats may sleep on their owners for warmth
+cats use slow blinking to show trust
+cats meow in different tones for different needs
+cats can hiss when threatened or annoyed
+cats arch their backs to look bigger
+cats puff up their tails when scared
+cats purr at around 25–150 hz
+cat purring frequencies may promote healing
+cats sometimes drool when very happy
+cats can get zoomies, sudden bursts of energy
+cats often do zoomies after using the litter box
+cats prefer routine and can get stressed by change
+cats can get separation anxiety
+cats can develop bonds similar to dogs
+cats bury toys as hunting practice
+cats may hide when sick or stressed
+cats sometimes eat grass to help digestion
+cats can vomit hairballs after eating grass
+cats often lick their owners as a sign of affection
+cats’ grooming saliva contains allergens
+the most common cat allergy trigger is the protein fel d 1
+sphinx cats are hairless but not hypoallergenic
+bengal cats are known for their spotted coats
+siamese cats are known for vocal behavior
+persian cats need regular grooming
+russian blue cats are often shy but affectionate
+norwegian forest cats are adapted to cold
+ragdoll cats go limp when picked up
+scottish fold cats have folded ears
+savannah cats are hybrids with servals
+manx cats are tailless
+japanese bobtails have short pompom tails
+cats often nap multiple times a day
+cats use sunspots for warmth
+cats’ paws are sensitive to texture and temperature
+black cats were once thought to bring bad luck
+in japan, black cats are seen as lucky
+egyptians worshipped cats in ancient times
+the goddess bastet was depicted as a cat
+cats were mummified in ancient egypt
+sailors used cats on ships to catch mice
+cats were introduced to many islands by humans
+cats are one of the most popular pets worldwide
+cats can purr even while inhaling and exhaling
+cats can have extra long fangs called saber teeth
+house cats and tigers share about 95% dna
+cats can get acne on their chin
+cats can develop dental problems without care
+brushing cats’ teeth can prevent disease
+cats’ claws grow continuously like human nails
+scratching posts help prevent furniture damage
+cats are territorial animals
+cats may hiss or growl at intruders
+cats can form hierarchies in multi-cat homes
+cats sometimes play fight but may get aggressive
+cats often use body language more than sound
+tail position tells a lot about a cat’s mood
+a raised tail usually means friendliness
+a puffed tail means fear or anger
+a low tail can mean insecurity
+cats flatten their ears when scared
+cats flick their tails when annoyed
+cats may gently bite during play
+cats sometimes give love bites
+cats can overgroom if stressed
+cats can get fleas and ticks easily
+cats can transmit toxoplasmosis through feces
+pregnant women are advised not to clean litter boxes
+cats use scent glands on paws and cheeks to mark
+cats sometimes headbutt to show affection
+cats’ “chirp” sound is called a trill
+cats’ growl can sound like a low rumble
+cats’ purrs are unique to each cat
+cats can suffer from hair loss if stressed
+cats can get sunburn on their ears
+cats with white fur are more prone to skin cancer
+cats’ fur patterns are determined genetically
+cats’ coat colors can change with temperature
+cats shed more in warmer months
+long-haired cats need more grooming than short-haired cats
+cats’ fur helps regulate body temperature
+cats can shiver to stay warm
+cats often curl into a ball to conserve heat
+cats stretch after naps to keep muscles ready
+cats often twitch their paws while dreaming
+cats can dream about hunting or playing
+cats sometimes snore softly
+cats can get hiccups
+cats can suffer from asthma
+cats can have seizures if they’re sick
+cats can get stressed by loud noises
+cats prefer quiet safe environments
+cats sometimes hide in boxes for security
+cats love enclosed spaces because of safety
+cats may hide in laundry baskets or drawers
+cats often love cardboard boxes
+cats can fit into small spaces due to flexible spines
+cats’ collarbones don’t connect to other bones
+cats can squeeze through holes as big as their head
+cats’ tails help with balance
+cats can fall from high places and survive
+cats’ righting reflex lets them twist mid-air
+cats spread out when falling to slow descent
+cats may survive falls better from higher floors than lower
+cats are sometimes called “liquid” because of flexibility
+cats can turn their heads almost 180 degrees
+cats can move stealthily thanks to padded paws
+cats usually stalk prey quietly before pouncing
+cats’ hunting instincts remain strong in pets
+cats may hunt even when well-fed
+cats bring prey to kittens to teach hunting
+cats sometimes drop prey at owners’ feet
+cats can imitate prey sounds while hunting
+cats sometimes eat insects
+cats sometimes eat plants for fiber
+cats can chew on houseplants dangerously
+lilies are toxic to cats
+chocolate is toxic to cats
+onions and garlic are toxic to cats
+grapes and raisins are toxic to cats
+cats should not eat raw dough
+cats should not drink alcohol
+cats can get poisoned by antifreeze
+cats should not eat dog food long term
+cats can get obese if overfed
+obese cats are at risk for diabetes
+cats need protein more than carbohydrates
+cats need animal-based food to stay healthy
+cats can eat small amounts of cooked meat
+cats should not eat raw fish often
+cats can eat tuna in moderation
+too much tuna can cause mercury poisoning
+cats should always have fresh water available
+cats prefer running water over still bowls
+cats can drink from faucets out of curiosity
+cats may tip bowls if they dislike placement
+cats can get urinary tract infections
+cats can suffer from kidney disease
+older cats are prone to hyperthyroidism
+cats can develop cancer like humans
+cats can lose vision with age
+cats can develop hearing loss
+cats can develop dementia in old age
+cats may meow more if confused
+cats may wander at night in old age
+cats often live healthier indoors
+outdoor cats have shorter lifespans
+indoor cats are safer from predators
+indoor cats are safer from cars
+indoor cats are safer from disease
+indoor cats may need more stimulation
+cats can enjoy cat trees for climbing
+cats enjoy scratching posts for claws
+cats enjoy toys that mimic prey
+cats enjoy laser pointers but need real toys too
+cats enjoy feather wands
+cats may chase string but string can be dangerous
+cats sometimes swallow string and need surgery
+cats can choke on small toys
+cats enjoy puzzle feeders for enrichment
+cats enjoy catnip if sensitive to it
+not all cats react to catnip
+catnip sensitivity is inherited genetically
+cats that react may roll, rub, or zoom around
+cats’ response to catnip lasts about 10–15 minutes
+cats can also react to silvervine or valerian
+kittens don’t react to catnip until a few months old
+cats can get bored of the same toys
+rotating toys helps keep cats engaged
+cats can be clicker-trained to do tricks
+cats can learn to sit, high-five, and fetch
+cats may use litter boxes instinctively
+cats may need litter training if young
+cats prefer clean litter boxes
+cats may refuse dirty litter boxes
+cats may spray urine to mark territory
+neutering reduces spraying behavior
+spaying prevents unwanted litters
+spaying reduces risk of uterine infections
+neutering reduces roaming behavior
+spaying and neutering can extend lifespan
+cats go into heat multiple times a year
+female cats yowl loudly when in heat
+male cats can smell females in heat
+cats can have multiple fathers in one litter
+a litter can have 1 to 12 kittens
+kittens are usually weaned at 8 weeks
+cats teach kittens how to hunt
+mother cats move kittens to safer spots
+cats can carry kittens gently by the scruff
+cats sometimes groom kittens even when grown
+cats may adopt other kittens
+cats may nurse kittens not their own
+cats’ milk contains antibodies for kittens
+cats’ eyes usually change color after birth
+kittens’ eyes are blue at first
+cats’ eyes develop true color by 6–8 weeks
+cats’ pupils dilate when excited
+cats’ eyes glow in photos due to reflection
+cats’ whiskers also grow above eyes and on legs
+cats may lose whiskers naturally over time
+cats grow new whiskers back
+cats rely on whiskers for spatial awareness
+cats can get stressed if whiskers touch bowl edges
+wide shallow bowls prevent whisker stress
+cats can learn their names
+cats may respond better to high-pitched voices
+cats may ignore commands if uninterested
+cats are independent but still social
+cats can bond deeply with their owners
+cats may follow owners from room to room
+cats may sleep near or on owners for safety
+cats often wait at doors for owners
+cats sometimes bring toys to owners
+cats may meow differently to each owner
+cats may mimic owner’s routines
+cats can sense owner’s mood changes
+cats may comfort owners when sad
+cats can detect illness in owners sometimes
+cats may lie on injured body parts
+cats sometimes predict seizures in owners
+cats were used in therapy and nursing homes
+cats can reduce stress levels in humans
+cats’ purring may lower blood pressure
+cats in homes can reduce loneliness
+cats can help people with depression
+cats can make people laugh with antics
+cats are one of the most searched animals online
+grumpy cat became a viral sensation
+maru the box-loving cat became famous in japan
+cats dominate memes and gifs online
+cats inspire tons of internet content
+cats have appeared in ancient art
+cats are common in folklore worldwide
+cats were once accused of witchcraft companions
+cats appear in many myths as magical creatures
+cats are FUCKING DUMBASSES, especially orange ones
+cats have been bred for specific coat types
+cats were domesticated around 9,000 years ago
+cats spread with humans through trade routes
+cats are in the same family as lions and tigers
+cats can interbreed with wild cats sometimes
+cats are crepuscular, most active at dawn and dusk
+cats can adapt sleep schedules to humans
+cats usually sleep lightly but wake quickly
+cats twitch ears toward sound sources
+cats hear frequencies up to 64 khz
+cats can hear better than dogs
+cats’ sense of smell is stronger than humans
+cats may rub objects to leave scent trails
+cats recognize owners by scent and voice
+cats may not recognize themselves in mirrors
+cats may think reflections are other cats
+cats may try to attack reflections
+cats may watch tv screens with interest
+cats may try to paw at moving images
+cats can see some colors but not all
+cats see blues and yellows best
+cats see red poorly compared to humans
+cats’ vision is more motion-sensitive
+cats can spot prey moving far away
+cats may freeze completely before pouncing
+cats may wiggle butts before jumping
+cats often use play to practice hunting
+cats may bite toys to simulate killing
+cats often lick fur to relax after stress
+cats may overgroom due to anxiety
+cats may develop bald spots from licking
+cats sometimes knead blankets before lying down
+cats may suckle blankets as comfort behavior
+cats often stretch on scratching posts
+cats use scratching to leave scent marks
+cats may scratch owners as play
+cats may scratch furniture if no post available
+cats sometimes scratch after waking
+cats can live happily in apartments
+cats need vertical space for enrichment
+cats enjoy watching outside from windows
+cats sometimes chatter at birds outside
+cats may paw at windows to reach prey
+cats sometimes chase shadows indoors
+cats can play with simple household objects
+cats sometimes prefer boxes over toys
+cats can enjoy hiding under blankets
+cats sometimes sneak into closets
+cats may nap in laundry piles
+cats sometimes climb curtains out of curiosity
+cats may knock things off shelves while exploring
+cats may steal food if left unattended
+cats sometimes beg for food like dogs
+cats can learn feeding schedules
+cats may wake owners early for food
+cats may paw at faces to wake owners
+cats may stare at owners while sleeping
+cats sometimes sleep on keyboards or laptops
+cats love warmth from electronics
+cats may chew on charging cables
+cats may paw at water glasses
+cats sometimes spill water intentionally
+cats sometimes splash paws in bowls before drinking
+cats may play with dripping faucets
+cats sometimes try to climb into sinks
+cats sometimes nap in bathtubs
+cats can nap in strange positions
+cats often contort into odd sleeping shapes
+cats may cover their eyes with paws when sleeping
+cats sometimes sleep belly-up if they feel safe
+cats sometimes snore when deeply relaxed
+cats may twitch ears and paws while dreaming
+cats may meow in sleep
+cats sometimes kick during dreams
+cats may dream of hunting or playing
+cats are fascinating pets loved worldwide
